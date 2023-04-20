@@ -9,5 +9,5 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Data Science & Analytics
 - 💬 Ask me about sql, python, football, anime, bikes, blahh blaahh
 - 📫 How to reach me: https://linktr.ee/sahil.singh
-- ⚡ Fun fact: That's not me, my profile pic, I love dogs!
+- ⚡ Fun fact: That's not me, my profile pic, I love dogs & music. That explains my profile pic, doesn't it !?
 -->
